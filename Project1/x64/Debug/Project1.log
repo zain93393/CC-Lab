@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\DELL\source\repos\Project1\Project1\Source.cpp(775): warning C4715: 'lexical': not all control paths return a value
+  Project1.vcxproj -> C:\Users\DELL\source\repos\Project1\x64\Debug\Project1.exe
